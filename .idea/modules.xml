@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/rajasthan-tourism.iml" filepath="$PROJECT_DIR$/rajasthan-tourism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bundle/rajasthan-tourism-bundle.iml" filepath="$PROJECT_DIR$/bundle/rajasthan-tourism-bundle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/content/rajasthan-tourism-content.iml" filepath="$PROJECT_DIR$/content/rajasthan-tourism-content.iml" />
+    </modules>
+  </component>
+</project>
